@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1633607377 source:w:\2sem\task7\main.cpp
+	<iostream>
+	<stdio.h>
+	"queue.h"
+	<cstdlib>
+	<limits.h>
+	<float.h>
+	<cstddef>
+	<time.h>
+
+1633603758 w:\2sem\task7\queue.h
+	<iostream>
+	<sstream>
+	<math.h>
+	<stdlib.h>
+
